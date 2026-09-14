@@ -2,8 +2,6 @@
 
 This repository was created with the goal of documenting the knowledge acquired throughout the course "Git e GitHub do básico ao avançado (c/ gist e GitHub Pages)", covering everything from fundamental concepts to more advanced practices used in day-to-day work.
 
-Access the project: https://curso-git-udemy.vercel.app
-
 ## Main Content Covered
 * Fundamental commands: ```git init, git clone, git add, git commit, git push, git pull```
 * Branch management: ```git branch, git checkout, git switch, git merge```
